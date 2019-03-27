@@ -1,0 +1,1 @@
+## GraphQL Sequelize Starter
